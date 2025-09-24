@@ -49,9 +49,13 @@ Hello_World/
 Here is where you can add links or talk about results or how you are using this information.  This is your place to share more.  
  For now, I'm going to add a few additional Markdown Options: 
    **BOLD** text 
+   
    *Italics* text
+   
    ~~Strikethrough~~ text
+   
    ***Bold and Italics*** text
+   
    > Quote information
 > "sdfsdfsd"
    
